@@ -12,3 +12,6 @@ Ultra-hard multi-layer steganography challenge featuring:
 ## 🚀 Deployment
 
 ### Local Development
+
+
+# Haha you have run into a brick wall more like a broken QR code. #
